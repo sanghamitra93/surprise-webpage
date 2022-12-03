@@ -1,0 +1,5 @@
+.bg-light-header {
+    font-size: 15px;
+    --bs-bg-opacity: 1;
+    background-color:#c9c6c661 !important;
+}
